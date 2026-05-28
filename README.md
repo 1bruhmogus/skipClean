@@ -4,8 +4,11 @@ Basically, when I was using spotify w spicetify installed, there were too many c
 
 How to install:
 
-Download the js file and paste this in file explorer (windows): %localappdata%/spicetify/Extensions
-Then, move the js into there, then run these commands in powershell:
+Download the js file and paste this in file explorer (windows):
+
+%localappdata%/spicetify/Extensions
+
+then, paste these commands in powershell:
 
 spicetify config extensions skipClean.js
 
