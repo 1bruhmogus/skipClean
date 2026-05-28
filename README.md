@@ -8,6 +8,8 @@ Download the js file and paste this in file explorer (windows):
 
 %localappdata%/spicetify/Extensions
 
+move the js file into that folder.
+
 then, paste these commands in powershell:
 
 spicetify config extensions skipClean.js
