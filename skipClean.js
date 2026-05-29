@@ -6,7 +6,7 @@
 
     let enabled = localStorage.getItem("skipClean.enabled") !== "false";
     let consecutiveSkips = 0;
-    const MAX_SKIPS = 5;
+    const MAX_SKIPS = 15;
 
     const button = new Spicetify.Playbar.Button(
         "Skip Clean Songs",
