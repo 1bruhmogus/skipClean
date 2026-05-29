@@ -1,19 +1,15 @@
-Basically, when I was using spotify w spicetify installed, there were too many clean songs, so I made this. The toggle is located in the same bar as the play/pause button and should look like an exclamation point enclosed in a circle.
+skipClean
 
-
-
-How to install:
-
-Download the js file and paste this in file explorer (windows):
-
+Installation:
+Download skipClean.js
+On Windows, open file explorer and paste this at the top:
 %localappdata%/spicetify/Extensions
-
-move the js file into that folder.
-
-then, paste these commands in powershell:
-
+Move skipClean.js into that folder
+Open a powershell window WITHOUT admin privileges, and paste these:
 spicetify config extensions skipClean.js
-
 spicetify apply
 
-The powershell window should not have admin privileges.
+
+Usage:
+There should be a button like this: ⚠ (except a circle)
+Click to toggle on/off 
