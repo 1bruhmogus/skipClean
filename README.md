@@ -1,3 +1,10 @@
+**DISCLAMER**
+
+Spicetify is required
+
+-
+
+
 skipClean
 
 **Installation:**
