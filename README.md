@@ -2,7 +2,7 @@
 
 Spicetify is required
 
--
+--------------
 
 
 skipClean
